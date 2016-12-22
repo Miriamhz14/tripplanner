@@ -16,8 +16,6 @@ events you are interested in
     * Gem BootStrap
     * Gem AwesomePrint
 ---------------------------------------------------------
-## Installation Instructions
---------------------------------------------------------
 ## User Stories 
 As a user I want to be able to save as much money as I can on my trip withoout 
 going over my spending budget. It is important for me to be able to save my past 
@@ -29,6 +27,11 @@ As a user I  want to be able to go onto one website and have all
 my traveling needs met. I would like to look up atrractions near my hotel, and be 
 able to plan around accordingly.
 ---------------------------------------------------------
-## Unsolved Problems
+## Team Memebers
+1. Bryan Buitrago
+2. Carson Hyde
+3. Justin Peck
+4. Michelle Brant
+5. Miriam Hernandez
 
 ---------------------------------------------------------
